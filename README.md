@@ -1,2 +1,4 @@
 # NEWCOMER
-My first Git repository
+My first Git repository.
+<br>
+Author: Aditya Biswas
